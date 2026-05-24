@@ -209,13 +209,7 @@ Distance (cm)    Bottle Count    Status
 
 ### Prerequisites
 
-Install these libraries in Arduino IDE:
-
-```
-✓ ESPAsyncWebServer
-✓ AsyncTCP
-✓ ArduinoJson
-✓ WiFi (built-in)
+set up the platfrom.ini as shown in the platform ini file
 ```
 
 ### Configuration
@@ -252,10 +246,10 @@ GET http://{ESP32_IP}/status
 ### Flash Steps
 
 ```bash
-1. Open Arduino IDE
-2. Select Board: "ESP32 Dev Module"
+1. Open platformIO in vs code
+2. set up the erspressif framewrok 
 3. Select correct COM port
-4. Upload the firmware
+4. Upload the firmware code as provided and also add the libraries as shown in platform.ini
 5. Open Serial Monitor (115200 baud)
 6. Note the IP address printed on connection
 ```
