@@ -7,6 +7,7 @@
 ### *IoT-Powered Pharmacy Inventory Management System*
 
 **Real-time stock monitoring · Automatic supplier emails · P2P emergency pharmacy alerts**
+> 🏆 **5th Place — TechVerse Hackathon**
 
 <br/>
 
@@ -123,6 +124,7 @@ An **IoT-based, AI-integrated pharmacy inventory system** that:
 ```
 
 ---
+![Circuit Diagram](medistock_circuit_diagram.svg)
 
 ## ✨ Features
 
@@ -440,11 +442,11 @@ count: 0  →  alertLevel: EMERGENCY
 
 BIT HASH TECH
 <div align="center">
+## 👥 Team — BIT HASH TECH
 
-**MediStock AI** — *Because an empty shelf should never be a surprise.*
-
-`ESP32` · `IoT` · `Pharmacy` · `Auto-Email` · `P2P` · `Real-Time`
-
-⭐ Star this repo if it helped you!
+| Role | Name |
+|---|---|
+| Hardware & Firmware | Hashir ([@hashir-hash-byte](https://github.com/hashir-hash-byte)) |
+| Web Application | [@Mohammed-hashir-code777](https://github.com/Mohammed-hashir-code777) |
 
 </div>
