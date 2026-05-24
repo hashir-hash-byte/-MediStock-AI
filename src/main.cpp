@@ -6,8 +6,8 @@
 #define TRIG_PIN 5
 #define ECHO_PIN 18
 
-const char* ssid     = "Hashir’s iphone";
-const char* password = "hashir1676";
+const char* ssid     = "yor wifi name";
+const char* password = "password6";
 
 AsyncWebServer server(80);
 
